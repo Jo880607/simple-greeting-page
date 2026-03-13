@@ -1,5 +1,13 @@
----
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    domains: ['images.unsplash.com'],
+    unoptimized: false
+  },
+  // SEO 최적화
+  experimental: {
+    appDir: true
+  }
+}
 
-## 2. 설정 파일들
-
-### `package.json`
+module.exports = nextConfig
