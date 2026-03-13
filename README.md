@@ -1,2 +1,3 @@
-# simple-greeting-page
-개인 또는 기업용 심플한 인사말 웹페이지
+## 2. 패키지 설정 & 의존성
+
+`package.json`
