@@ -1,3 +1,5 @@
-### 📦 패키지 설정
+---
 
-`package.json`
+## 2. 설정 파일들
+
+### `package.json`
